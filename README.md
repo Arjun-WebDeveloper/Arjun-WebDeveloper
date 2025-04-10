@@ -1,6 +1,8 @@
 <h1 align="center">👋Hello!!</h1>
 <hr>
-<a href="https://wakatime.com/@fe7ad31b-2d6c-4927-bd2d-5484d48c3e7a"><img src="https://wakatime.com/badge/user/fe7ad31b-2d6c-4927-bd2d-5484d48c3e7a.svg" alt="Total time coded since Apr 10 2025" /></a>
+<a href="https://wakatime.com/@fe7ad31b-2d6c-4927-bd2d-5484d48c3e7a"><img src="https://wakatime.com/badge/user/fe7ad31b-2d6c-4927-bd2d-5484d48c3e7a.svg" alt="Total time coded since Apr 10 2025" /></a> 
+
+[![Peerlist](https://github-readme-badge.peerlist.io/api/arjunpawar)](https://peerlist.io/arjunpawar)
 
 
 
