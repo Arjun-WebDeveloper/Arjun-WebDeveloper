@@ -57,6 +57,7 @@ Over the past couple of months, I’ve:
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d86d9e7b-167b-46f3-a1a4-4bc133648397/deploy-status)](https://app.netlify.com/sites/ed-tech-responsive-web/deploys)
 
 ---
 
@@ -65,7 +66,7 @@ Over the past couple of months, I’ve:
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eff961ee-4080-4eff-ab88-48c0e4c257d5/deploy-status)](https://app.netlify.com/sites/flipcart-clon/deploys)
 ---
 
 ### 🏏 [Cricket Website](https://github.com/Arjun-WebDeveloper/Cricket-Website)  
@@ -73,8 +74,7 @@ Over the past couple of months, I’ve:
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e26ead8d-cce4-4fc1-b101-1756d05a103c/deploy-status)](https://app.netlify.com/sites/cricket-web/deploys)
 ---
 
 ### 📚 [Ed-Tech Web](https://github.com/Arjun-WebDeveloper/Ed-Tech-Web)  
@@ -82,8 +82,7 @@ Over the past couple of months, I’ve:
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c16bbd6d-f7a2-4e7f-ac55-d7383740467b/deploy-status)](https://app.netlify.com/sites/ed-tch/deploys)
 
 ---
 
