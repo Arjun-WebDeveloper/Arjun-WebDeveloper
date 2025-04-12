@@ -101,7 +101,7 @@ Over the past couple of months, I’ve:
 ## 🤝 Let’s Connect!
 
 I'm always open to collaboration, mentorship, or just a good tech chat!  
-📫 Reach out on [LinkedIn](https://www.linkedin.com/in/yourprofile) or check out my latest work here on GitHub.
+📫 Reach out on [LinkedIn](https://www.linkedin.com/in/arjunpawarwebdeveloper) or check out my latest work here on GitHub.
 
 ---
 
