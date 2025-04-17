@@ -19,6 +19,9 @@ Over the past couple of months, I’ve:
 - 🔧 Currently learning **Backend Development** (Node.js, Express)
 
 ---
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ArjunPawar/c200c89f-8d2c-4341-9dab-1e686d35af7b.png"  width="500px"/></a>
+
+
 
 ## 🛠️ Tech Stack
 
