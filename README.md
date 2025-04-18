@@ -17,6 +17,7 @@ Over the past couple of months, I’ve:
 - 💻 Built **6+ projects** using **HTML, CSS, and JavaScript**
 - 🌐 Focused on creating responsive, user-friendly websites
 - 🔧 Currently learning **Backend Development** (Node.js, Express)
+- Working on Inventory Management Application (MVC Web-architecture based project)
 
 ---
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ArjunPawar/c200c89f-8d2c-4341-9dab-1e686d35af7b.png"  width="500px"/></a>
